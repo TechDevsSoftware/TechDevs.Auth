@@ -1,0 +1,10 @@
+C:\src\git\TechDevs\TechDevs.Auth\TechDevs.IdentityServer\bin\Debug\netcoreapp2.0\TechDevs.IdentityServer.deps.json
+C:\src\git\TechDevs\TechDevs.Auth\TechDevs.IdentityServer\bin\Debug\netcoreapp2.0\TechDevs.IdentityServer.runtimeconfig.json
+C:\src\git\TechDevs\TechDevs.Auth\TechDevs.IdentityServer\bin\Debug\netcoreapp2.0\TechDevs.IdentityServer.runtimeconfig.dev.json
+C:\src\git\TechDevs\TechDevs.Auth\TechDevs.IdentityServer\bin\Debug\netcoreapp2.0\TechDevs.IdentityServer.dll
+C:\src\git\TechDevs\TechDevs.Auth\TechDevs.IdentityServer\bin\Debug\netcoreapp2.0\TechDevs.IdentityServer.pdb
+C:\src\git\TechDevs\TechDevs.Auth\TechDevs.IdentityServer\obj\Debug\netcoreapp2.0\TechDevs.IdentityServer.csproj.CoreCompileInputs.cache
+C:\src\git\TechDevs\TechDevs.Auth\TechDevs.IdentityServer\obj\Debug\netcoreapp2.0\TechDevs.IdentityServer.AssemblyInfoInputs.cache
+C:\src\git\TechDevs\TechDevs.Auth\TechDevs.IdentityServer\obj\Debug\netcoreapp2.0\TechDevs.IdentityServer.AssemblyInfo.cs
+C:\src\git\TechDevs\TechDevs.Auth\TechDevs.IdentityServer\obj\Debug\netcoreapp2.0\TechDevs.IdentityServer.dll
+C:\src\git\TechDevs\TechDevs.Auth\TechDevs.IdentityServer\obj\Debug\netcoreapp2.0\TechDevs.IdentityServer.pdb

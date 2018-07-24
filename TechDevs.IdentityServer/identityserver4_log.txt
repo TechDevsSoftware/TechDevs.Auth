@@ -1,0 +1,111 @@
+2018-07-23 15:38:29.299 +01:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2018-07-23 15:38:29.450 +01:00 [DBG] Using idsrv as default scheme for authentication
+2018-07-23 15:38:29.455 +01:00 [DBG] Using idsrv as default scheme for sign-in
+2018-07-23 15:38:29.455 +01:00 [DBG] Using idsrv as default scheme for sign-out
+2018-07-23 15:38:29.456 +01:00 [DBG] Using idsrv as default scheme for challenge
+2018-07-23 15:38:29.458 +01:00 [DBG] Using idsrv as default scheme for forbid
+2018-07-23 15:38:30.760 +01:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2018-07-23 15:38:30.786 +01:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2018-07-23 15:38:43.336 +01:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2018-07-23 15:38:43.336 +01:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2018-07-23 15:38:43.337 +01:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2018-07-23 15:38:43.337 +01:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2018-07-23 15:38:43.369 +01:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2018-07-23 15:38:43.370 +01:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2018-07-23 15:38:43.458 +01:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2018-07-23 15:38:43.458 +01:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2018-07-23 15:38:43.458 +01:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2018-07-23 15:38:43.458 +01:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2018-07-23 15:38:43.458 +01:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2018-07-23 15:38:43.458 +01:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2018-07-23 15:38:44.924 +01:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2018-07-23 15:38:44.924 +01:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2018-07-23 15:38:45.004 +01:00 [INF] AuthenticationScheme: idsrv was challenged.
+2018-07-23 15:38:45.014 +01:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2018-07-23 15:38:45.014 +01:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2018-07-23 15:38:48.995 +01:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2018-07-23 15:38:48.996 +01:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2018-07-23 15:38:49.026 +01:00 [INF] AuthenticationScheme: Google was challenged.
+2018-07-23 15:38:51.122 +01:00 [INF] AuthenticationScheme: idsrv.external signed in.
+2018-07-23 15:38:51.132 +01:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2018-07-23 15:38:51.132 +01:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2018-07-23 15:38:51.149 +01:00 [INF] AuthenticationScheme: idsrv.external was successfully authenticated.
+2018-07-23 15:38:51.223 +01:00 [INF] {
+  "Name": "User Login Success",
+  "Category": "Authentication",
+  "EventType": "Success",
+  "Id": 1000,
+  "Provider": "Google",
+  "ProviderUserId": "107387075381855787656",
+  "SubjectId": "da113436b5c14348726a9175cdd931b1c05ea61bb9717666fbb253371e622266",
+  "DisplayName": "Steve Kent",
+  "Endpoint": "UI",
+  "ActivityId": "0HLFGL7QO98MM:00000004",
+  "TimeStamp": "2018-07-23T14:38:51Z",
+  "ProcessId": 19960,
+  "LocalIpAddress": "127.0.0.1:20842",
+  "RemoteIpAddress": "::1"
+}
+2018-07-23 15:38:51.237 +01:00 [DBG] Augmenting SignInContext
+2018-07-23 15:38:51.239 +01:00 [DBG] Adding amr claim with value: external
+2018-07-23 15:38:51.245 +01:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2018-07-23 15:38:51.248 +01:00 [INF] AuthenticationScheme: idsrv signed in.
+2018-07-23 15:38:51.267 +01:00 [INF] AuthenticationScheme: idsrv.external signed out.
+2018-07-23 15:38:51.279 +01:00 [INF] AuthenticationScheme: idsrv was successfully authenticated.
+2018-07-23 15:38:51.280 +01:00 [INF] AuthenticationScheme: idsrv was successfully authenticated.
+2018-07-23 15:38:52.083 +01:00 [INF] AuthenticationScheme: idsrv was successfully authenticated.
+2018-07-23 15:38:52.083 +01:00 [INF] AuthenticationScheme: idsrv was successfully authenticated.
+2018-07-23 15:38:52.083 +01:00 [INF] AuthenticationScheme: idsrv was successfully authenticated.
+2018-07-23 15:38:52.083 +01:00 [INF] AuthenticationScheme: idsrv was successfully authenticated.
+2018-07-23 15:38:52.101 +01:00 [INF] AuthenticationScheme: idsrv was successfully authenticated.
+2018-07-23 15:38:52.101 +01:00 [INF] AuthenticationScheme: idsrv was successfully authenticated.
+2018-07-23 15:38:52.101 +01:00 [INF] AuthenticationScheme: idsrv was successfully authenticated.
+2018-07-23 15:38:52.101 +01:00 [INF] AuthenticationScheme: idsrv was successfully authenticated.
+2018-07-23 15:38:52.102 +01:00 [INF] AuthenticationScheme: idsrv was successfully authenticated.
+2018-07-23 15:38:52.101 +01:00 [INF] AuthenticationScheme: idsrv was successfully authenticated.
+2018-07-23 15:38:54.362 +01:00 [INF] AuthenticationScheme: idsrv was successfully authenticated.
+2018-07-23 15:38:54.362 +01:00 [INF] AuthenticationScheme: idsrv was successfully authenticated.
+2018-07-23 15:38:56.569 +01:00 [DBG] CORS request made for path: /Account/Logout from origin: null but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2018-07-23 15:38:56.570 +01:00 [INF] AuthenticationScheme: idsrv was successfully authenticated.
+2018-07-23 15:38:56.570 +01:00 [INF] AuthenticationScheme: idsrv was successfully authenticated.
+2018-07-23 15:38:56.717 +01:00 [INF] AuthenticationScheme: idsrv signed out.
+2018-07-23 15:38:56.729 +01:00 [INF] {
+  "Name": "User Logout Success",
+  "Category": "Authentication",
+  "EventType": "Success",
+  "Id": 1002,
+  "SubjectId": "da113436b5c14348726a9175cdd931b1c05ea61bb9717666fbb253371e622266",
+  "DisplayName": "Steve Kent",
+  "ActivityId": "0HLFGL7QO98MN:00000006",
+  "TimeStamp": "2018-07-23T14:38:56Z",
+  "ProcessId": 19960,
+  "LocalIpAddress": "127.0.0.1:20842",
+  "RemoteIpAddress": "::1"
+}
+2018-07-23 15:38:59.920 +01:00 [INF] AuthenticationScheme: idsrv was challenged.
+2018-07-23 15:39:01.361 +01:00 [DBG] CORS request made for path: /account/login from origin: null but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2018-07-23 15:39:01.392 +01:00 [INF] {
+  "Name": "User Login Success",
+  "Category": "Authentication",
+  "EventType": "Success",
+  "Id": 1000,
+  "Username": "alice",
+  "SubjectId": "818727",
+  "DisplayName": "alice",
+  "Endpoint": "UI",
+  "ActivityId": "0HLFGL7QO98MO:00000007",
+  "TimeStamp": "2018-07-23T14:39:01Z",
+  "ProcessId": 19960,
+  "LocalIpAddress": "127.0.0.1:20842",
+  "RemoteIpAddress": "::1"
+}
+2018-07-23 15:39:01.396 +01:00 [DBG] Augmenting SignInContext
+2018-07-23 15:39:01.396 +01:00 [DBG] Adding idp claim with value: local
+2018-07-23 15:39:01.396 +01:00 [DBG] Adding amr claim with value: pwd
+2018-07-23 15:39:01.398 +01:00 [INF] AuthenticationScheme: idsrv signed in.
+2018-07-23 15:39:01.407 +01:00 [INF] AuthenticationScheme: idsrv was successfully authenticated.
+2018-07-23 15:39:01.407 +01:00 [INF] AuthenticationScheme: idsrv was successfully authenticated.
+2018-07-23 15:39:03.136 +01:00 [INF] AuthenticationScheme: idsrv was successfully authenticated.
+2018-07-23 15:39:03.136 +01:00 [INF] AuthenticationScheme: idsrv was successfully authenticated.
+2018-07-23 15:39:03.593 +01:00 [INF] AuthenticationScheme: idsrv was successfully authenticated.
+2018-07-23 15:39:03.593 +01:00 [INF] AuthenticationScheme: idsrv was successfully authenticated.
